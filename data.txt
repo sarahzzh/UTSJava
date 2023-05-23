@@ -1,0 +1,3 @@
+Nilai Array ke - 0:5, Nilai Array ke - 1:10, Nilai Array ke - 2:15,Nilai Array ke - 3:20,Nilai Array ke - 4:25,Nilai Array ke - 5:30,Nilai Array ke - 6:35,Nilai Array ke - 7:40,Nilai Array ke - 8:45,Nilai Array ke - 9:50
+nama teman ke-1:Angel,nama teman ke-2:Maulana,nama teman ke-3:Ailsa,nama teman ke-4:Ridho,nama teman ke-5:Farhan
+Nama: Sarah Azizah, NIM: 22201087, Alamat: batu, Umur: 20, Tinggi Badan: 165.0 cm
